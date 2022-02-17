@@ -1,0 +1,200 @@
+{
+  "tienda" : {
+    "cartas" : {
+      "-Mw6HV87vDhD5K5f7_gZ" : {
+        "color" : "Blanco",
+        "disponible" : true,
+        "id" : "-Mw6HV87vDhD5K5f7_gZ",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HV87vDhD5K5f7_gZ?alt=media&token=dd3275c6-6174-4a3c-b3e1-a94eac08b413",
+        "nombre" : "Mago del aberno",
+        "precio" : 100
+      },
+      "-Mw6HdAyW6DeRpI7xpA2" : {
+        "color" : "Blanco",
+        "disponible" : true,
+        "id" : "-Mw6HdAyW6DeRpI7xpA2",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HdAyW6DeRpI7xpA2?alt=media&token=ff25fc8b-8fc4-43e6-ae37-f138949b99d6",
+        "nombre" : "Chica bastante perturbadora",
+        "precio" : 50
+      }
+    },
+    "eventos" : {
+      "-Mw6LSHcw3QQWf9sKBgw" : {
+        "aforo_max" : 500,
+        "aforo_ocupado" : 5,
+        "fecha" : "28/1/2022",
+        "id" : "-Mw6LSHcw3QQWf9sKBgw",
+        "nombre" : "GameCon",
+        "precio" : 10,
+        "url_imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Feventos%2F-Mw6LSHcw3QQWf9sKBgw?alt=media&token=6fc25418-789b-4989-b5b0-8c965622d5bf"
+      },
+      "-Mw6MMoUYekrRs_dRKWV" : {
+        "aforo_max" : 100,
+        "aforo_ocupado" : 0,
+        "fecha" : "3/2/2022",
+        "id" : "-Mw6MMoUYekrRs_dRKWV",
+        "nombre" : "GameOn",
+        "precio" : 5,
+        "url_imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Feventos%2F-Mw6MMoUYekrRs_dRKWV?alt=media&token=9ebe2769-3e62-4cef-ab95-0af0c504db8f"
+      }
+    },
+    "inscripciones" : {
+      "-Mw6P3wtvA8PbfID4D_g" : {
+        "id" : "-Mw6P3wtvA8PbfID4D_g",
+        "id_evento" : "-Mw6LSHcw3QQWf9sKBgw",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_usuario" : "user1"
+      },
+      "-Mw6Tdz8UASEMUZbE1dh" : {
+        "id" : "-Mw6Tdz8UASEMUZbE1dh",
+        "id_evento" : "-Mw6LSHcw3QQWf9sKBgw",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_usuario" : "user1"
+      },
+      "-Mw6V2v_BCUFFzUnYNm5" : {
+        "id" : "-Mw6V2v_BCUFFzUnYNm5",
+        "id_evento" : "-Mw6LSHcw3QQWf9sKBgw",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_usuario" : "user1"
+      },
+      "-Mw6VLkJfSHylzXrt3Wx" : {
+        "id" : "-Mw6VLkJfSHylzXrt3Wx",
+        "id_evento" : "-Mw6LSHcw3QQWf9sKBgw",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_usuario" : "user1"
+      },
+      "-Mw6XVwmXo9QnjFeESs2" : {
+        "id" : "-Mw6XVwmXo9QnjFeESs2",
+        "id_evento" : "-Mw6LSHcw3QQWf9sKBgw",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_usuario" : "user1"
+      }
+    },
+    "pedidos" : {
+      "-Mw6OC4J3Tzsk0l9aAwQ" : {
+        "estado" : true,
+        "id" : "-Mw6OC4J3Tzsk0l9aAwQ",
+        "id_carta" : "-Mw6HV87vDhD5K5f7_gZ",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_carta" : "Mago del aberno",
+        "nombre_user" : "user1",
+        "url_carta" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HV87vDhD5K5f7_gZ?alt=media&token=dd3275c6-6174-4a3c-b3e1-a94eac08b413"
+      },
+      "-Mw6OCFW4HicSOPTdQdZ" : {
+        "estado" : true,
+        "id" : "-Mw6OCFW4HicSOPTdQdZ",
+        "id_carta" : "-Mw6HdAyW6DeRpI7xpA2",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_carta" : "Chica bastante perturbadora",
+        "nombre_user" : "user1",
+        "url_carta" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HdAyW6DeRpI7xpA2?alt=media&token=ff25fc8b-8fc4-43e6-ae37-f138949b99d6"
+      },
+      "-Mw6OEYe_b-SkBs1gmMN" : {
+        "estado" : true,
+        "id" : "-Mw6OEYe_b-SkBs1gmMN",
+        "id_carta" : "-Mw6HV87vDhD5K5f7_gZ",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_carta" : "Mago del aberno",
+        "nombre_user" : "user1",
+        "url_carta" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HV87vDhD5K5f7_gZ?alt=media&token=dd3275c6-6174-4a3c-b3e1-a94eac08b413"
+      },
+      "-Mw6OEeQhQSeHdur0K1r" : {
+        "estado" : true,
+        "id" : "-Mw6OEeQhQSeHdur0K1r",
+        "id_carta" : "-Mw6HdAyW6DeRpI7xpA2",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_carta" : "Chica bastante perturbadora",
+        "nombre_user" : "user1",
+        "url_carta" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HdAyW6DeRpI7xpA2?alt=media&token=ff25fc8b-8fc4-43e6-ae37-f138949b99d6"
+      },
+      "-Mw6P5hr8E9c0zG6QN8T" : {
+        "estado" : true,
+        "id" : "-Mw6P5hr8E9c0zG6QN8T",
+        "id_carta" : "-Mw6HV87vDhD5K5f7_gZ",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_carta" : "Mago del aberno",
+        "nombre_user" : "user1",
+        "url_carta" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HV87vDhD5K5f7_gZ?alt=media&token=dd3275c6-6174-4a3c-b3e1-a94eac08b413"
+      },
+      "-Mw6QiEY9mpHF3HZ8hzE" : {
+        "estado" : false,
+        "id" : "-Mw6QiEY9mpHF3HZ8hzE",
+        "id_carta" : "-Mw6HV87vDhD5K5f7_gZ",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_carta" : "Mago del aberno",
+        "nombre_user" : "user1",
+        "url_carta" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HV87vDhD5K5f7_gZ?alt=media&token=dd3275c6-6174-4a3c-b3e1-a94eac08b413"
+      },
+      "-Mw6QiLZpnfkAVYWGDWK" : {
+        "estado" : false,
+        "id" : "-Mw6QiLZpnfkAVYWGDWK",
+        "id_carta" : "-Mw6HdAyW6DeRpI7xpA2",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_carta" : "Chica bastante perturbadora",
+        "nombre_user" : "user1",
+        "url_carta" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HdAyW6DeRpI7xpA2?alt=media&token=ff25fc8b-8fc4-43e6-ae37-f138949b99d6"
+      },
+      "-Mw6TbsAc74RFW3yW4kO" : {
+        "estado" : false,
+        "id" : "-Mw6TbsAc74RFW3yW4kO",
+        "id_carta" : "-Mw6HV87vDhD5K5f7_gZ",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_carta" : "Mago del aberno",
+        "nombre_user" : "user1",
+        "url_carta" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HV87vDhD5K5f7_gZ?alt=media&token=dd3275c6-6174-4a3c-b3e1-a94eac08b413"
+      },
+      "-Mw6XTjGZBmbHfZdJRfp" : {
+        "estado" : false,
+        "id" : "-Mw6XTjGZBmbHfZdJRfp",
+        "id_carta" : "-Mw6HV87vDhD5K5f7_gZ",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_carta" : "Mago del aberno",
+        "nombre_user" : "user1",
+        "url_carta" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HV87vDhD5K5f7_gZ?alt=media&token=dd3275c6-6174-4a3c-b3e1-a94eac08b413"
+      },
+      "-Mw6XUg2ZxV_PlWs5pvN" : {
+        "estado" : false,
+        "id" : "-Mw6XUg2ZxV_PlWs5pvN",
+        "id_carta" : "-Mw6HdAyW6DeRpI7xpA2",
+        "id_usuario" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "nombre_carta" : "Chica bastante perturbadora",
+        "nombre_user" : "user1",
+        "url_carta" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fcartas%2F-Mw6HdAyW6DeRpI7xpA2?alt=media&token=ff25fc8b-8fc4-43e6-ae37-f138949b99d6"
+      }
+    },
+    "usuarios" : {
+      "-Mv9iQ_vbgt9JXrKDLDq" : {
+        "correoElectronico" : "admin@gmail.com",
+        "id" : "-Mv9iQ_vbgt9JXrKDLDq",
+        "login" : "admin",
+        "password" : "admin",
+        "tipo" : "admin",
+        "url_imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fusuarios%2F-Mv9iQ_vbgt9JXrKDLDq?alt=media&token=9dfdb0bb-e729-4c6f-9093-49ead52a7650"
+      },
+      "-Mv9jfNv4hbSTXZJ7mKZ" : {
+        "correoElectronico" : "hola2@gmail.com",
+        "id" : "-Mv9jfNv4hbSTXZJ7mKZ",
+        "login" : "user1",
+        "password" : "12",
+        "tipo" : "normal",
+        "url_imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fusuarios%2F-Mv9jfNv4hbSTXZJ7mKZ?alt=media&token=1e04cecf-69c3-4f81-b80f-9bd6fc2d59f1"
+      },
+      "-MvPKrpiJ7z41LfQf1tB" : {
+        "correoElectronico" : "hola@gmail.com",
+        "id" : "-MvPKrpiJ7z41LfQf1tB",
+        "login" : "user2",
+        "password" : "12",
+        "tipo" : "normal",
+        "url_imagen" : ""
+      },
+      "-Mw3pm3JIpf-SBWeUSGA" : {
+        "correoElectronico" : "user3@gmail.com",
+        "id" : "-Mw3pm3JIpf-SBWeUSGA",
+        "login" : "user3",
+        "password" : "12",
+        "tipo" : "normal",
+        "url_imagen" : "https://firebasestorage.googleapis.com/v0/b/practicafinaleag.appspot.com/o/tienda%2Fusuarios%2F-Mw3pm3JIpf-SBWeUSGA?alt=media&token=ef439f3f-1f1b-422e-8cc7-1ad2edc49563"
+      }
+    }
+  }
+}
